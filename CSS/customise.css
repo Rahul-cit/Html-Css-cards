@@ -1,0 +1,531 @@
+.Tags h2{
+    color:yellow;
+   font-family:Arial; 
+   font-size:15px;
+   text-shadow: 2px 2px 5px yellow
+}
+.Tags p{
+    font-family: Arial;
+    font-size: medium;
+    color: white;
+    text-align: justify;
+    font-size: 15px;
+    text-shadow: 2px 2px 5px red;
+    
+}
+.Tags{
+    background-image: url(../img/bg-1.avif);
+    padding:25px 50px;
+    display:inline-block;
+    background-position:left;
+    width:400px;
+    box-sizing: border-box;
+    border-radius: 25px;
+    margin-left: 0px;
+    font-size: 15px;
+    box-shadow: 2px 2px 2px 2px rgb(255, 42, 0);
+  
+    
+    
+}
+.Tags a{
+    background-color: rgb(113, 113, 225);
+    color: white;
+    display: inline-block;
+    width: 40px;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: medium;
+    transition: 250ms;
+    border-radius: 10px;
+    font-family:arial;
+    margin-bottom: 0px;
+    
+
+    
+
+}
+.Tags a:hover{
+    margin-left: 10px;
+    background-color: blue;
+    
+ 
+}
+.card{
+    display: inline-block;
+    background-color: bisque;
+    margin: 20px;
+    border-radius: 15px;
+    transition: 250ms;
+    box-shadow: 2px 2px 2px 2px rgb(93, 131, 234);
+}
+.card img{
+    width: 500px;
+    height: 200px;
+    margin-left: 0px;
+    box-sizing: border-box;
+    border-radius: 10px;
+   
+}
+.card h2{
+    font-size: 21px;
+    margin: 15px;
+    font-family: arial;
+    background-color: bisque;
+    text-shadow: 2px 2px 5px rgb(96, 93, 93);
+}
+.card p{
+    font-family: cursive;
+    font-size: 20px;
+    margin-left: 15px;
+    background-color: bisque;
+    color: blue;
+    text-shadow: 2px 2px 5px rgb(75, 9, 230);
+}
+.card a{
+    font-family: arial;
+    font-size: medium;
+    color: white;
+    display: inline-block;
+    background-color: rgb(191, 57, 57);
+    width: 60px;
+    padding: 10px 20px;
+    margin-left: 15px;
+    text-decoration: none;
+    font-size: 12px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    transition: 200ms;
+    
+    
+}
+
+.card a:hover{
+    margin-left:10px;
+    background-color: red;
+}
+.card:hover{
+    margin-left: 30px;
+}
+
+
+.air a{
+    display: inline-block;
+    margin: 15px;
+    background-color: rgb(33, 32, 32);
+    color: white;
+    padding:10px 15px;
+    text-decoration: none;
+    border-radius: 15px;
+    box-sizing: border-box;
+    font-family: cursive;
+    transition: 250ms;
+   
+}
+.air h2{
+    font-size: 25px;
+    margin-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px 5px rgb(32, 25, 25);
+    
+}
+.air{
+    width: 400px;
+    display: inline-block;
+    background-image: url(../img/nature.jpg);
+    background-size: cover;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 25px;
+    background-position: center;
+    transition: 300ms;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 2px 2px rgb(237, 239, 228);
+}
+.air p{
+    margin-left: 10px;
+    font-size:17px ;
+    font-family: arial;
+    text-shadow: 2px 2px 5px rgb(29, 28, 28);
+    line-height: 23px;
+}
+.air h1{
+    margin-left: 10px;
+    color:blue;
+    text-shadow:   2px 2px 5px rgb(41, 159, 232);
+    
+}
+.air a:hover{
+   background-color: black;
+}
+.Fire{
+    display: inline-block;
+    width: 400px;
+    background-image:url(../img/fire.avif);
+    background-size: cover;
+    padding: 15px 10px;
+    background-position: bottom;
+    box-sizing: border-box;
+    border-radius: 20px;
+    padding-left: 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+    transition: 300ms;
+    box-shadow: 2px 2px 2px 2px rgb(239, 137, 13);
+}
+    
+.Fire h1{
+    display: inline-block;
+    font-size: 35px;
+    background-color: rgb(233, 233, 42);
+    color:black;
+    padding: 16px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 15px;
+    text-shadow:   2px 2px 5px black;
+    box-sizing: border-box;
+
+    
+    
+    
+}
+.Fire p{
+    font-size: 30px;
+    color: white;
+    line-height: 45px;
+    padding: 15px;
+    text-shadow:   2px 2px 5px black;
+    font-family: cursive;
+}
+.Fire img{
+    height: 30px;
+    box-sizing: border-box;
+}
+.Fire a{
+    color:white ;
+    display: inline-block;
+    background-color: rgb(86, 86, 225);
+    width: 45px;
+    padding: 0px 10px;
+    text-decoration: none;
+    border-radius: 20px;
+    transition: 300ms;
+   
+}
+.Fire a:hover{
+    background-color: blue;
+    margin-left: 10px;
+    
+}
+.Fire:hover{
+    margin-left: 20px;
+}
+.sky{
+    display: inline-block;
+    width: 300px;
+    background-color: green;
+    padding: 50px;
+    border-radius: 20px;
+    margin-top: 15px;
+    margin-left: 10px;
+    box-shadow: 2px 2px 2px 2px rgb(237, 239, 228);
+
+   
+}
+.sky h1{
+    display: inline-block;
+    text-shadow:   2px 2px 5px rgb(63, 58, 58);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+.sky a.one{
+    display: inline-block;
+    color: white;
+    margin-right: 160px;
+    background-color: rgb(84, 79, 79);
+    padding: 6px;
+    text-decoration: none;
+    border-radius: 8px;
+} 
+.sky a.two{
+    color:white;
+    display: inline-block;
+    background-color: rgb(84, 78, 78);
+    padding: 6px;
+    text-decoration: none;
+    border-radius: 8px;
+}
+.sky p{
+    font-size:25px;
+    color:bisque;
+    text-shadow:   2px 2px 5px rgb(255, 255, 255);
+    font-family: arial;
+}
+.sky a.one:hover{
+    background-color: rgb(57, 52, 52);
+}
+.sky a.two:hover{
+    background-color: rgb(57, 55, 55);
+}
+.fbi{
+    display: inline-block;
+    width: 400px;
+    margin-left: 20px;
+    background-color: antiquewhite;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transition: 310ms;
+    box-shadow: 2px 2px 2px 2px rgb(212, 60, 85);
+  
+  
+}
+.fbi h2{
+    display: inline-block;
+    font-family: arial;
+
+}
+.fbi img{
+    width: 400px;
+} 
+.fbi img.mn{
+    width: 23px;
+    margin-left: 10px;
+}
+.fbi img.hrt{
+    width: 20px;
+    margin: 10px;
+}
+.fbi img.cnt{
+    width: 23px;
+}
+.fbi a.vst{
+    color: white;
+    background-color: green;
+    display: inline-block;
+    width: 35px;
+    padding: 10px;
+    font-size: 15px;
+    margin-left: 280px;
+    border-radius: 15px;
+    text-decoration: none;
+    
+    
+}
+.fbi p{
+    margin-left: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow:   2px 2px 5px rgb(34, 33, 33);
+}
+.fbi:hover{
+    margin-left: 25px;
+}
+.front{
+    display: inline-block;
+    width: 400px;
+    background-image: url(../img/code.jpg);
+    margin: 10px;
+    background-position: bottom;
+    border-radius: 15px;
+    margin-top: 15px;
+    box-shadow: 2px 2px 2px 2px rgb(255, 136, 0);
+    
+   
+    
+}
+.front img{
+    width: 400px;
+    height: 300px;
+    box-sizing: border-box;
+    border-radius: 15px;
+   
+}
+.front h1{
+    color: red;
+    padding: 20px;
+    font-size: 35px;
+    text-shadow:   2px 2px 5px white;
+    font-style: italic;
+}
+.front p{
+    color: yellow;
+    padding: 15px;
+    font-size: 18px;
+    line-height: 25px;
+    text-shadow:   2px 2px 5px black;
+    font-style: oblique;
+}
+.front a{
+    display: inline-block;
+    color:black ;
+    background-color: rgb(228, 175, 75);
+    width: 60px;
+    padding: 15px;
+    text-decoration: none;
+    border-radius: 15px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    transition: 300ms;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.front a:hover{
+    margin-left:15px ;
+    background-color: orange;
+}
+.car{
+    width: 500px;
+    display: inline-block;
+    background-color: rgb(8, 5, 5);
+    width: 290px;
+    padding: 20px;
+    background-image: url(../img/car\ pic.jpg);
+    background-position: center;
+    border-radius: 15px;
+    margin-left: 15px;
+    box-shadow: 2px 2px 2px 2px rgb(217, 255, 0);
+    
+  
+    
+}
+.car h2{
+    color: rgb(233, 19, 19);
+    font-style: oblique;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.car a.hm{
+    margin-right: 40px;
+    background-color: rgb(34, 28, 147);
+    text-decoration:none ;
+    padding: 5px;
+    color: white;
+    
+}
+.car a.pr{
+    margin-right: 40px;
+    background-color:   rgb(34, 28, 147);
+    text-decoration: none;
+    padding: 5px;
+    color:white
+   
+
+}
+.car a.ss{
+    margin-right: 40px;
+    background-color: rgb(34, 28, 147);
+    text-decoration: none;
+    padding: 5px;
+    color: white;
+    
+    
+}
+.car h1{
+    color:black;
+    text-shadow: 2px 2px 5px rgb(231, 248, 43);
+}
+.car p.p1{
+    color: white;
+    font-size: 30px;
+    text-shadow: 2px 2px 5px rgb(50, 19, 227);
+}
+.car p.p2{
+    color: bisque;
+    font-size:20px;
+    text-shadow: 2px 2px 5px red;
+}
+.car a.hm:hover{
+    background-color:rgb(8, 2, 108); 
+}
+.car a.pr:hover{
+    background-color: rgb(8, 2, 108);
+}
+.car a.ss:hover{
+   background-color:  rgb(8, 2, 108);;
+}
+.bat{
+    display: inline-block;   
+    background-image: url(../img/batman.avif);
+    width: 40%;
+    margin-right:10px;
+    box-sizing: border-box;
+    padding: 15px;
+    background-position: top right;
+    padding-left: 10px;
+    border-radius: 20px;
+    margin-top: 10px;
+    box-shadow: 2px 2px 2px 2px rgb(255, 42, 0);
+    margin-left: 10px;
+    
+}
+.bat img{
+    width: 55px;
+    
+
+}
+.bat h1{
+    margin-left: 150px;
+    font-size: 50px;
+    border-bottom: 5px solid red;
+    color: yellow;
+    border: solid 1px rgb(208, 255, 0);
+    padding: 10px;
+    text-shadow: 2px 2px 5px rgb(220, 210, 26);
+  
+   
+}
+.bat h2{
+display: block;
+margin-left: 90px;
+color: red;
+margin-right: 40px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-shadow: 2px 2px 5px rgb(36, 27, 11);
+
+}
+body{
+  background-image: url(../img/bdbg.jpg);
+}
+.pro{
+    display: inline-block;
+    width: 260;
+    background-color: rgb(255, 255, 239);
+    margin-top: 20px;
+    border-radius: 15px;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 2px 2px rgb(53, 255, 27);
+    margin-left: 15px;
+    transition: 250ms;
+    
+
+}
+.pro p{
+    width: 260px;
+    padding: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.pro img{
+    width: 290px;
+    border-radius: 10px;
+}
+.pro a{
+    width: 40px;
+    background-color: rgb(91, 193, 91);
+    color: white;
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    margin: 10px;
+    border-radius: 15px;
+
+}
+.pro h2{
+    margin-left: 23px;
+    font-family: arial;
+    border: solid 1px rgb(255, 162, 0);
+    padding: 10px;
+    text-shadow: 2px 2px 5px rgb(230, 178, 90);
+}
+.pro:hover{
+    margin-left: 10px;
+}
+
+    
